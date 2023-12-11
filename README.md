@@ -1,5 +1,5 @@
 ## 👋 Hi there!
-I'm a passionate data enthusiast based in New York with a background in molecular biology and biotechnology. Starting my data journey with Analytics and Data Science, hoping to expand my knowledge into ML and NLP. 
+I'm a passionate data enthusiast based in New York with a background in molecular biology and biotechnology. Starting my data journey with Analytics and Data Science, hoping to expand my knowledge into ML.
 ## Project Highlights
 
 ## Connect with me:
